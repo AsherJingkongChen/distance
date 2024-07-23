@@ -35,7 +35,7 @@ if #[cfg(feature = "simd")] {
     LaneCount,
     Simd,
     SimdElement,
-    SimdFloat,
+    num::SimdFloat,
     SupportedLaneCount,
   };
 

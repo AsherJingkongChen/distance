@@ -10,8 +10,10 @@ This is a Rust library. Here you can do:
 ```shell
 cargo add floating-distance
 ```
+
 2. Check out the [documentation](https://docs.rs/floating-distance) and
 [source codes](https://github.com/AsherJingkongChen/floating-distance.git) (click the badges above for more information)
+
 3. Clone the GitHub repository and run the examples:
 ```shell
 cargo run --example default
